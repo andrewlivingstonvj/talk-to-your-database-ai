@@ -5,7 +5,7 @@ An interactive, production-ready web application that bridges the gap between no
 ---
 
 ## 🚀 Live Demo
-🔗 **[Test the Live App Here]([https://your-app-url.streamlit.app](https://talk-to-your-database-ai.streamlit.app/))** *(Replace with your actual Streamlit link)*
+🔗 **https://talk-to-your-database-ai.streamlit.app/**
 
 ---
 
