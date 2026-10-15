@@ -70,7 +70,7 @@ if st.button("Generate Answer 🚀"):
         try:
             # Connect to the AI Brain
             genai.configure(api_key=api_key)
-            model = genai.GenerativeModel("gemini-2.5-flash")
+            model = genai.GenerativeModel("gemini-3.8-flash")
             
             # Ask the AI to write the SQL query
             full_prompt = instructions_for_ai + "\nUser Question: " + user_question
