@@ -1,4 +1,4 @@
-# 📊 AI-Powered Self-Serve SQL Analytics Engine
+# 📊 Talk-To-Your-Database-AI
 
 An interactive, production-ready web application that bridges the gap between non-technical business stakeholders and relational SQL databases using generative AI. Built with **Python, Streamlit, SQLite, and the Google Gemini API**.
 
