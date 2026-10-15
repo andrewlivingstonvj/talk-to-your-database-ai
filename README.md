@@ -38,6 +38,18 @@ The app runs on a relational E-Commerce database structured with foreign-key rel
 If you want to run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
    cd your-repo-name
+2. **Install Dependencies**
+   pip install -r requirements.txt
+3. **Run the Streamlit app**
+   streamlit run app.py
+
+👨‍💻 Author
+**Andrew Livingston V J**
+
+B.Tech Computer Science & Engineering Graduate | Aspiring Data Analyst & Data Engineer
+
+LinkedIn: https://www.linkedin.com/in/andrew-livingston-v-j-006987249/
+
+GitHub: https://github.com/andrewlivingstonvj/
